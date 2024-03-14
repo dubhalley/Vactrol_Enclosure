@@ -107,5 +107,7 @@ Pair mean that you find two of them which have the same behaviour, the same resi
 
 5 - You have now to write the value for each LDR in the grid, in the folder Appairing the LDR/LDR_Grid.ods
 
+And choose those with the same behaviour
+
 
 ## In the vactrol datasheet you'll find the datasheet of vactrols from PerkinElmer Optoelectronics
