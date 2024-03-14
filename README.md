@@ -91,5 +91,21 @@ TUBE_1Led2LDR : The tube
 <img src='Pictures/Single led dual LDR Round head/Vactrol On Board.jpg' width='200px'/>
 
 
+## For the dual LDR version you need to pair the LDR
+
+Pair mean that you find two of them which have the same behaviour, the same resistance value at the same light.
+
+1 - You need to buy some LDR (Ebay for example can supply many...)
+
+2 - With an Arduino you can have some steps of light, from no light to full light
+
+3 - Circuit
+
+<img src='Appairing the LDR/Pair the LDR Schema.png' width='200px'/>
+
+4 - The code is in the folder Appairing the LDR/Compare_LDR_Value/Compare_LDR_Value.ino
+
+5 - You have now to write the value for each LDR in the grid, in the folder Appairing the LDR/LDR_Grid.ods
+
 
 ## In the vactrol datasheet you'll find the datasheet of vactrols from PerkinElmer Optoelectronics
