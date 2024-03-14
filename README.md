@@ -10,7 +10,7 @@ A led can generate light progressively between no light and full light.
 
 An LDR is sensitive to light, and its internal resistance varies when illuminated. The more light it receives, the lower its internal resistance.
 
-When you mold an LED in resin, you get a Vactrol. You could also place an LED and an LDR in a tube or Heat-shrink tubing, you get a Vactrol.
+When you mold an LED and a LDR in resin or place an LED and an LDR in a 3D printed tube or Heat-shrink tubing, you get a Vactrol.
 
 In other words, you have a resistance that you can vary by turning the LED on more or less.
 
@@ -27,7 +27,7 @@ Vactrols are available with one LED and one LDR or with one LED and 2 LDRs.
 
 .stl : the files for a 3D printer
 
-.fcstd : the file for freecad (3D parametric modeler : https://www.freecad.org/)
+.fcstd : the file for freecad (3D parametric modeler : https://www.freecad.org/) if you want to modify them
 
 ### Single LDR and Single Led (Flat Top) (VTL5C3 for example)
 
@@ -55,7 +55,7 @@ TUBE_1Led2LDR : The tube
 
 ## In the picture folder you'll find the picture of the 3D printed vactrol enclosure
 
-Led Flat head
+### Flat head
 
 <img src='Pictures/Single led single LDR Flat head/Led.jpg' width='200px'/>
 
@@ -68,7 +68,7 @@ Led Flat head
 <img src='Pictures/Single led single LDR Flat head/Vactrol On Board.jpg' width='200px'/>
 
 
-Led rounded head
+### Rounded head
 
 <img src='Pictures/Single led single LDR Round head/Led.jpg' width='200px'/>
 
@@ -78,7 +78,7 @@ Led rounded head
 
 <img src='Pictures/Single led single LDR Round head/Assembly.jpg' width='200px'/>
 
-Dual LDR
+### Dual LDR
 
 <img src='Pictures/Single led dual LDR Round head/Led.jpg' width='200px'/>
 
