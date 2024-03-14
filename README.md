@@ -1,6 +1,6 @@
 # Vactrol_Enclosure
 
-## What are vactrols
+## What are vactrols ?
 
 Vactrols are optocouplers.
 
@@ -53,7 +53,7 @@ LDR_1Led2LDR : Part for LDR
 
 TUBE_1Led2LDR : The tube
 
-## In the picture folder you'll find the picture of the 3D printed vactrol enclosure
+## In the picture folder you'll find pictures of the 3D printed vactrol enclosure
 
 ### Flat head
 
