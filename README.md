@@ -1,5 +1,6 @@
 # Vactrol_Enclosure
 
+## What are vactrols
 
 Vactrols are optocouplers.
 
@@ -25,32 +26,70 @@ Vactrols are available with one LED and one LDR or with one LED and 2 LDRs.
 ## In the 3D files folder you will find 2 differents type of files:
 
 .stl : the files for a 3D printer
+
 .fcstd : the file for freecad (3D parametric modeler : https://www.freecad.org/)
 
 ### Single LDR and Single Led (Flat Top) (VTL5C3 for example)
 
-LED_1Led1LDR_F
-LDR_1Led1LDR
-TUBE_1Led1LDR
+LED_1Led1LDR_F : Part for the led
+
+LDR_1Led1LDR : Part for LDR
+
+TUBE_1Led1LDR : The tube
 
 ### Single LDR and Single Led (Rounded Head) (VTL5C3 for example)
 
-LED_1Led1LDR_R
-LDR_1Led1LDR
-TUBE_1Led1LDR
+LED_1Led1LDR_R : Part for the led
+
+LDR_1Led1LDR : Part for LDR
+
+TUBE_1Led1LDR : The tube
 
 ### Dual LDR and Single led (Rounded Head) (VTL5C3/2 for example)
 
-LED_1Led2LDR
-LDR_1Led2LDR
-TUBE_1Led2LDR
+LED_1Led2LDR : Part for the led
+
+LDR_1Led2LDR : Part for LDR
+
+TUBE_1Led2LDR : The tube
 
 ## In the picture folder you'll find the picture of the 3D printed vactrol enclosure
 
 Led Flat head
+
+<img src='Pictures/Single led single LDR Flat head/Led.jpg' width='200px'/>
+
+<img src='Pictures/Single led single LDR Flat head/LDR.jpg' width='200px'/>
+
+<img src='Pictures/Single led single LDR Flat head/All Components.jpg' width='200px'/>
+
+<img src='Pictures/Single led single LDR Flat head/Assembly.jpg' width='200px'/>
+
+<img src='Pictures/Single led single LDR Flat head/Vactrol On Board.jpg' width='200px'/>
+
+
 Led rounded head
-LDR
-Tube
-Assembly
+
+<img src='Pictures/Single led single LDR Round head/Led.jpg' width='200px'/>
+
+<img src='Pictures/Single led single LDR Round head/LDR.jpg' width='200px'/>
+
+<img src='Pictures/Single led single LDR Round head/All Components.jpg' width='200px'/>
+
+<img src='Pictures/Single led single LDR Round head/Assembly.jpg' width='200px'/>
+
+Dual LDR
+
+<img src='Pictures/Single led dual LDR Round head/Led.jpg' width='200px'/>
+
+<img src='Pictures/Single led dual LDR Round head/LDR.jpg' width='200px'/>
+
+<img src='Pictures/Single led dual LDR Round head/All Components.jpg' width='200px'/>
+
+<img src='Pictures/Single led dual LDR Round head/Assembly.jpg' width='200px'/>
+
+<img src='Pictures/Single led dual LDR Round head/Vactrol On Board.jpg' width='200px'/>
+
+
 
 ## In the vactrol datasheet you'll find the datasheet of vactrols from PerkinElmer Optoelectronics
