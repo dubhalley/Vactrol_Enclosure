@@ -4,7 +4,7 @@
 
 Vactrols are optocouplers.
 
-It's a LED (Light Emitting Diode) and a LDR (Light Dependent Resistor)
+It's a LED (Light Emitting Diode) in front of a LDR (Light Dependent Resistor)
 
 A led can generate light progressively between no light and full light.
 
@@ -23,7 +23,7 @@ There are LEDS with flat heads and others with rounded heads.
 Vactrols are available with one LED and one LDR or with one LED and 2 LDRs.
 
 
-## In the 3D files folder you will find 2 differents type of files:
+## In the 3D files folder you will find 2 differents type of files in 3 differents folder:
 
 .stl : the files for a 3D printer
 
@@ -31,27 +31,10 @@ Vactrols are available with one LED and one LDR or with one LED and 2 LDRs.
 
 ### Single LDR and Single Led (Flat Top) (VTL5C3 for example)
 
-LED_1Led1LDR_F : Part for the led
-
-LDR_1Led1LDR : Part for LDR
-
-TUBE_1Led1LDR : The tube
-
 ### Single LDR and Single Led (Rounded Head) (VTL5C3 for example)
-
-LED_1Led1LDR_R : Part for the led
-
-LDR_1Led1LDR : Part for LDR
-
-TUBE_1Led1LDR : The tube
 
 ### Dual LDR and Single led (Rounded Head) (VTL5C3/2 for example)
 
-LED_1Led2LDR : Part for the led
-
-LDR_1Led2LDR : Part for LDR
-
-TUBE_1Led2LDR : The tube
 
 ## In the picture folder you'll find pictures of the 3D printed vactrol enclosure
 
