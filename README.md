@@ -31,11 +31,11 @@ Vactrols are available with one LED and one LDR or with one LED and 2 LDRs.
 
 .fcstd : the file for freecad (3D parametric modeler : https://www.freecad.org/) if you want to modify them
 
-### Single LDR and Single Led (Flat Top) (VTL5C3 for example)
+* Single LDR and Single Led (Flat Top) (VTL5C3 for example)
 
-### Single LDR and Single Led (Rounded Head) (VTL5C3 for example)
+* Single LDR and Single Led (Rounded Head) (VTL5C3 for example)
 
-### Dual LDR and Single led (Rounded Head) (VTL5C3/2 for example)
+* Dual LDR and Single led (Rounded Head) (VTL5C3/2 for example)
 
 
 ## In the picture folder you'll find pictures of the 3D printed vactrol enclosure
