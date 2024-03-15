@@ -2,6 +2,8 @@
 
 ## What are vactrols ?
 
+<img src='Pictures/Family.jpg' width='200px'/>
+
 Vactrols are optocouplers.
 
 It's a LED (Light Emitting Diode) in front of a LDR (Light Dependent Resistor)
