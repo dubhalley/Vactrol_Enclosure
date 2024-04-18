@@ -95,4 +95,8 @@ Pair mean that you find two of them which have the same behaviour, the same resi
 And choose those with the same behaviour
 
 
-## In the vactrol datasheet you'll find the datasheet of vactrols from PerkinElmer Optoelectronics
+## Vactrol datasheet you'll find the datasheet from PerkinElmer Optoelectronics
+
+## Links
+
+https://modwiggler.com/forum/viewtopic.php?t=272100
